@@ -1,0 +1,1 @@
+execute as @e[tag=mscplay,scores={music=1..}] run function music:song/_player

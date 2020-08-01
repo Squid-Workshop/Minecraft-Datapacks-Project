@@ -1,0 +1,1 @@
+give @s bow{private:1b,display:{Name:"\"Silent Piercer\"",Lore:["A well-worn handy bow that survived hundreds of battles"]},Enchantments:[{id:unbreaking,lvl:3},{id:power,lvl:0},{id:punch,lvl:1},{id:infinity,lvl:1},{id:vanishing_curse,lvl:1}]} 1

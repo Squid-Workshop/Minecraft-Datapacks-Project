@@ -1,0 +1,16 @@
+fill ~-3 ~ ~-1 ~-3 ~ ~-1 glass replace air
+fill ~-3 ~ ~0 ~-3 ~ ~0 glass replace air
+fill ~-3 ~ ~1 ~-3 ~ ~1 glass replace air
+fill ~-2 ~ ~-2 ~-2 ~ ~-2 glass replace air
+fill ~-2 ~ ~2 ~-2 ~ ~2 glass replace air
+fill ~-1 ~ ~-3 ~-1 ~ ~-3 glass replace air
+fill ~-1 ~ ~3 ~-1 ~ ~3 glass replace air
+fill ~0 ~ ~-3 ~0 ~ ~-3 glass replace air
+fill ~0 ~ ~3 ~0 ~ ~3 glass replace air
+fill ~1 ~ ~-3 ~1 ~ ~-3 glass replace air
+fill ~1 ~ ~3 ~1 ~ ~3 glass replace air
+fill ~2 ~ ~-2 ~2 ~ ~-2 glass replace air
+fill ~2 ~ ~2 ~2 ~ ~2 glass replace air
+fill ~3 ~ ~-1 ~3 ~ ~-1 glass replace air
+fill ~3 ~ ~0 ~3 ~ ~0 glass replace air
+fill ~3 ~ ~1 ~3 ~ ~1 glass replace air

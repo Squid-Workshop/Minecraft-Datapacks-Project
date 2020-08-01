@@ -1,0 +1,27 @@
+{
+    "values": [
+        "minecraft:ocelot",
+        "minecraft:cat",
+        "minecraft:wolf",
+        "minecraft:fox",
+        "minecraft:creeper",
+        "minecraft:blaze",
+        "minecraft:zombie",
+        "minecraft:evoker",
+        "minecraft:villager",
+        "minecraft:zombie_villager",
+        "minecraft:wandering_trader",
+        "minecraft:husk",
+        "minecraft:witch",
+        "minecraft:vindicator",
+        "minecraft:illusioner",
+        "minecraft:drowned",
+        "minecraft:zombified_piglin",
+        "minecraft:piglin",
+        "minecraft:pillager",
+        "minecraft:skeleton",
+        "minecraft:stray",
+        "minecraft:enderman",
+        "minecraft:bee"
+    ]
+}

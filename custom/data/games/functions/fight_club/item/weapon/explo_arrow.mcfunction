@@ -1,0 +1,1 @@
+give @s minecraft:tipped_arrow{private:1b,Tags:["arrow","explo"],CustomPotionEffects:[{Id:2,Duration:320,ShowParticles:0b},{Id:18,Duration:1600,ShowParticles:0b},{Id:25,Amplifier:4,Duration:160,ShowParticles:0b}],CustomPotionColor:0b,display:{Name:"\"explo_arrow\"",Lore:["detects player nearby and explode"]}}

@@ -1,0 +1,1 @@
+execute at @s run summon minecraft:armor_stand ~ ~ ~ {Tags:["soccer"],Invisible:1b}

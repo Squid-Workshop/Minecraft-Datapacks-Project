@@ -1,0 +1,78 @@
+execute at @s[scores={non_op=5000}] run function music:musicbookreset
+
+
+
+
+
+
+
+
+
+#guoge
+execute at @s[scores={non_op=5001}] run tag @s add mpgge
+
+#tongtiandadao
+execute at @s[scores={non_op=5002}] run tag @s add mpttd
+
+#butterfly waltz
+execute at @s[scores={non_op=5003}] run tag @s add mpbwt
+
+#castle
+execute at @s[scores={non_op=5004}] run tag @s add mpcis
+
+#forriver
+execute at @s[scores={non_op=5005}] run tag @s add mpfrv
+
+#gczg
+execute at @s[scores={non_op=5006}] run tag @s add mpgcz
+
+#gymno
+execute at @s[scores={non_op=5007}] run tag @s add mpgnp
+
+#impmarch
+execute at @s[scores={non_op=5008}] run tag @s add mpipm
+
+#jinitaimei
+execute at @s[scores={non_op=5009}] run tag @s add mpjnt
+
+#lovestheme
+execute at @s[scores={non_op=5010}] run tag @s add mplvt
+
+#marchetqu
+execute at @s[scores={non_op=5011}] run tag @s add mpmct
+
+#micmacs
+execute at @s[scores={non_op=5012}] run tag @s add mpmma
+
+#mhwgoo
+execute at @s[scores={non_op=5013}] run tag @s add mpmhw
+
+#whwdzg
+execute at @s[scores={non_op=5015}] run tag @s add mpwhw
+
+#oldmoney
+execute at @s[scores={non_op=5016}] run tag @s add mpodm
+
+#riverflows
+execute at @s[scores={non_op=5017}] run tag @s add mprvf
+
+#skaterboi
+execute at @s[scores={non_op=5018}] run tag @s add mpskt
+
+#summer
+execute at @s[scores={non_op=5019}] run tag @s add mpsum
+
+#takemehigher
+execute at @s[scores={non_op=5020}] run tag @s add mptkm
+
+#themagnificentseven
+execute at @s[scores={non_op=5021}] run tag @s add mpmnf
+
+#vaggvisa
+execute at @s[scores={non_op=5022}] run tag @s add mpvgv
+
+#weatherforc
+execute at @s[scores={non_op=5023}] run tag @s add mpwtf
+
+#winterdawn
+execute at @s[scores={non_op=5024}] run tag @s add mpwtd

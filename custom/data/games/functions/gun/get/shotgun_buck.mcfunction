@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{CustomModelData:5,display:{Name:"{\"text\":\"double barrel shotgun - buck\"}"},gun:1b,shotgun:1b,buck:1b}

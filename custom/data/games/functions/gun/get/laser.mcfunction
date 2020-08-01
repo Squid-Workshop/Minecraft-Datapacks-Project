@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{CustomModelData:19,display:{Name:"{\"text\":\"laser rifle\"}"},gun:1b,laser:1b,silenced:0}

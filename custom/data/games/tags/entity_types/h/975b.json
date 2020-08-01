@@ -1,0 +1,13 @@
+{
+    "values": [
+        "minecraft:llama",
+        "minecraft:trader_llama",
+        "minecraft:zombie",
+        "minecraft:husk",
+        "minecraft:drowned",
+        "minecraft:zombified_piglin",
+        "minecraft:piglin",
+        "minecraft:zombie_villager",
+        "minecraft:villager"
+    ]
+}

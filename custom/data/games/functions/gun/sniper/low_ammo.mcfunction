@@ -1,0 +1,1 @@
+playsound minecraft:gun/clipempty ambient @a ~ ~ ~ 0.4 1

@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{display:{Name:"{\"text\":\"double barrel shotgun\"}",Lore:["A powerful short range weapon with only two ammo."]},gun:1b,shotgun:1b,addon:0,CustomModelData:5}

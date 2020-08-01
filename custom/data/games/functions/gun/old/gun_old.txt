@@ -1,0 +1,41 @@
+#auto_rifle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#execute at @p[scores={shoot_auto=1},nbt={SelectedItem:{tag:{auto_rifle:1b}}}] at @e[tag=bullet,limit=1,sort=nearest] run tp @e[tag=b_auto,limit=1,sort=nearest] ~ ~0.02 ~ facing entity @p
+
+
+#SMG
+
+
+#execute as @a[nbt={SelectedItem:{tag:{smg:1b}}}] if score @s shoot_auto matches 1.. run scoreboard players reset @s shoot_auto
+
+
+
+
+
+
+
+############aim
+
+#execute as @a[nbt={SelectedItem:{tag:{auto_rifle:1b}}}] if score @s shift matches 1.. run scoreboard players set @s shift 0
+
+#execute as @a[nbt={SelectedItem:{tag:{smg:1b}}}] if score @s shift matches 1.. run scoreboard players set @s shift 0
+
+###########show bullet
+#execute as @a[nbt={SelectedItem:{tag:{smg:1b}}}] run scoreboard objectives setdisplay sidebar b_smg
+#execute as @a[nbt={SelectedItem:{tag:{auto_rifle:1b}}}] run scoreboard objectives setdisplay sidebar b_ar
+
+##########no ammo
+

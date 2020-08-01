@@ -1,0 +1,1 @@
+give @s minecraft:tipped_arrow{CustomPotionColor:11080735,display:{Name:"\"Mini Explosive Arrow\""}} 5

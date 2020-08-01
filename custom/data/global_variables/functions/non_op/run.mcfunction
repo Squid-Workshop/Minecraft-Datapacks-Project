@@ -1,0 +1,1 @@
+execute as @a[scores={non_op=1..}] run function global_variables:non_op/non_op_functions

@@ -1,0 +1,1 @@
+give @s minecraft:snowball{Tags:["throw","grenade"],display:{Name:"{\"text\":\"grenade\"}"}}

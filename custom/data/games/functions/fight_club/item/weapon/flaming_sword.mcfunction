@@ -1,0 +1,1 @@
+give @s wooden_sword{Enchantments:[{id:sharpness,lvl:3},{id:fire_aspect,lvl:1},{id:unbreaking,lvl:3}],display:{Name:"{\"text\":\"Flaming Sword\",\"color\":\"white\"}"},HideFlags:63} 1

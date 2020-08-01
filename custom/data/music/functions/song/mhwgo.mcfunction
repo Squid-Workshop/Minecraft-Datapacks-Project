@@ -1,0 +1,2 @@
+execute if block ~ ~1 ~ #buttons[powered=true] unless entity @e[distance=..1,tag=mscplay] run summon armor_stand ~ ~0.5 ~ {Tags:["mscplay"]}
+execute as @e[distance=..1,tag=mscplay,limit=1] run function music:song/myheartwillgoon_new

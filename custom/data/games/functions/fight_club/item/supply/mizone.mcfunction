@@ -1,0 +1,1 @@
+give @s minecraft:potion{CustomPotionEffects:[{Id:1,Amplifier:2,Duration:200,ShowParticles:0b}],CustomPotionColor:1671915,display:{Name:"\"Mi Zong\"",Lore:["\"A common energy drink sold in Xiao Mai Bu\""]},HideFlags:63}

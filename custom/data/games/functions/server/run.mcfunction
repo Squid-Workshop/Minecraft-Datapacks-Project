@@ -1,0 +1,1 @@
+scoreboard players add @a run 1

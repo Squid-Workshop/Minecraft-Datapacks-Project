@@ -1,0 +1,1 @@
+give @s minecraft:crossbow{display:{Name:"{\"text\":\"Handcrafted Crossbow\"}",Lore:["{\"text\":\"handcrafted by outlaw ranger\"}","{\"text\":\"with experimantal tech\"}"]},Unbreakable:1,Enchantments:[{id:"minecraft:multishot",lvl:1},{id:"minecraft:quick_charge",lvl:2}],HideFlags:4} 1

@@ -1,0 +1,1 @@
+give @s ender_pearl{display:{Name:"\"InstaShift\"",Lore:["\"To Teleport\""]}} 5

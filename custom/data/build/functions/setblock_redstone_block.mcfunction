@@ -1,0 +1,1 @@
+execute as @e[tag=setb,limit=1,sort=nearest] at @s run setblock ~ ~2 ~ redstone_block

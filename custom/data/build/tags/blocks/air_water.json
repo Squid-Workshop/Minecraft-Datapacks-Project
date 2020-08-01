@@ -1,0 +1,11 @@
+{
+    "values": [
+    "minecraft:air",
+    "minecraft:water",
+    "#minecraft:corals",
+    "#minecraft:wall_corals",
+    "minecraft:sea_pickle",
+    "minecraft:seagrass",
+    "minecraft:tall_seagrass"
+    ]
+    }

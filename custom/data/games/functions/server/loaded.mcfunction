@@ -1,0 +1,1 @@
+tellraw @a {"text":"[Server: Loaded]","italic":true,"color":"gray"}

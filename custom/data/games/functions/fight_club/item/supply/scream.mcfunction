@@ -1,0 +1,1 @@
+give @s minecraft:splash_potion{CustomPotionEffects:[{Id:1,Amplifier:99,Duration:60},{Id:8,Amplifier:2,Duration:60}],CustomPotionColor:5892225,display:{Name:"\"Scream\"",Lore:["\"Squeeze the bottle to drink.\"","\"Use it to escape.\""]},HideFlags:63}

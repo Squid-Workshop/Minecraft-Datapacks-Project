@@ -1,0 +1,1 @@
+give @s minecraft:crossbow{private:1b,display:{Name:"{\"text\":\"Imperial Crossbow\"}",Lore:["{\"text\":\"crafted by imperial blacksmith\"}","{\"text\":\"slow but reliable and powerful\"}"]},Unbreakable:1,Enchantments:[{id:"minecraft:piercing",lvl:1}],HideFlags:4} 1

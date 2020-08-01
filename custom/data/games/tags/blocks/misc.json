@@ -1,0 +1,21 @@
+{
+    "values": [
+    "#minecraft:walls",
+    "#minecraft:coral_blocks",
+    "minecraft:bone_block",
+    "minecraft:crafting_table",
+    "minecraft:bookshelf",
+    "minecraft:furnace",
+    "minecraft:jukebox",
+    "minecraft:enchanting_table",
+    "minecraft:end_portal_frame",
+    "minecraft:ender_chest",
+    "minecraft:dispenser",
+    "minecraft:note_block",
+    "minecraft:hopper",
+    "minecraft:dropper",
+    "minecraft:observer",
+    "minecraft:beacon",
+    "minecraft:cauldron"
+    ]
+}

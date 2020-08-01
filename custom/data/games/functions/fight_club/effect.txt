@@ -1,0 +1,5 @@
+effect @p minecraft:speed 1000000 0
+effect @p minecraft:strength 1000000 49
+effect @p minecraft:fire_resistance 1000000 0
+effect @p minecraft:glowing 1000000 0
+effect @p minecraft:slow_falling 1000000 0

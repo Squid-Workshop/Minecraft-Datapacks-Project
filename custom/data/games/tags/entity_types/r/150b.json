@@ -1,0 +1,19 @@
+{
+    "values": [
+        "minecraft:rabbit",
+        "minecraft:chicken",
+        "minecraft:ocelot",
+        "minecraft:cat",
+        "minecraft:wolf",
+        "minecraft:fox",
+        "minecraft:zombie",
+        "minecraft:husk",
+        "minecraft:drowned",
+        "minecraft:zombified_piglin",
+        "minecraft:piglin",
+        "minecraft:zombie_villager",
+        "minecraft:villager",
+        "minecraft:turtle",
+        "minecraft:bee"
+    ]
+}

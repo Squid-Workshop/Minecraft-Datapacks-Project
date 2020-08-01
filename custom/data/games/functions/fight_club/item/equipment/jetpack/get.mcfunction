@@ -1,0 +1,1 @@
+give @s minecraft:lever{display:{Name:"{\"text\":\"jetpack lever\"}"},jetpack:1b}

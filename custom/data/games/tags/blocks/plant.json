@@ -1,0 +1,18 @@
+{
+    "values": [
+        "#minecraft:flowers",
+        "#minecraft:saplings",
+        "#minecraft:crops",
+        "minecraft:dead_bush",
+        "minecraft:grass",
+        "minecraft:tall_grass",
+        "minecraft:fern",
+        "minecraft:brown_mushroom",
+        "minecraft:red_mushroom",
+        "minecraft:large_fern",
+        "minecraft:sugar_cane",
+        "minecraft:bamboo",
+        "minecraft:vine",
+        "minecraft:lily_pad"
+    ]
+}

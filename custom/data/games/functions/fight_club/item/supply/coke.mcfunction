@@ -1,0 +1,1 @@
+give @s minecraft:lingering_potion{CustomPotionEffects:[{Id:10,Amplifier:1,Duration:250,ShowParticles:0b}],CustomPotionColor:16074649,display:{Name:"\"Cherry Coke\"",Lore:["\"A sweet soft drink that can regenerate health\""]},HideFlags:63}

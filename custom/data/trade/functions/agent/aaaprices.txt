@@ -1,0 +1,12 @@
+enchanted_golden_apple: 300
+dried_kelp:2
+cookie:3
+cake50
+spider_eye4
+sweet_berries:3
+apple5
+bread7
+golden_apple 150
+punmpkin_pie 20
+golden_carrot 30
+glistering_melon_slice 5

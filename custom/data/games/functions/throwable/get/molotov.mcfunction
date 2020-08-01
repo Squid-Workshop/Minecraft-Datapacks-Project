@@ -1,0 +1,1 @@
+give @s minecraft:snowball{throw:1b,molotov:1b,CustomModelData:2,display:{Name:"{\"text\":\"molotov\"}"}} 16

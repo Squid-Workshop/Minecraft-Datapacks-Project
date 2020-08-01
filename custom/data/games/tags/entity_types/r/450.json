@@ -1,0 +1,13 @@
+{
+    "values": [
+        "minecraft:guardian",
+        "minecraft:dolphin",
+        "minecraft:pig",
+        "minecraft:sheep",
+        "minecraft:cow",
+        "minecraft:mooshroom",
+        "minecraft:llama",
+        "minecraft:trader_llama",
+        "minecraft:wither"
+    ]
+}

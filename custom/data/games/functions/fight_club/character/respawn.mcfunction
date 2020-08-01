@@ -1,0 +1,12 @@
+execute if entity @s[scores={role=1}] run function games:fight_club/character/golden_knight/resp
+#execute if entity @s[scores={role=2}] run function games:fight_club/character/resp_
+execute if entity @s[scores={role=3}] run function games:fight_club/character/ninja/resp
+#execute if entity @s[scores={role=4}] run function games:fight_club/character/resp_
+execute if entity @s[scores={role=5}] run function games:fight_club/character/curse_carrier/resp
+execute if entity @s[scores={role=6}] run function games:fight_club/character/condemned/resp
+execute if entity @s[scores={role=7}] run function games:fight_club/character/archer/resp
+execute if entity @s[scores={role=8}] run function games:fight_club/character/ranger/resp
+execute if entity @s[scores={role=9}] run function games:fight_club/character/infantry/resp
+#execute if entity @s[scores={role=10}] run function games:fight_club/character/role10/resp
+execute if entity @s[scores={role=11}] run function games:fight_club/character/catcher/resp
+execute if entity @s[scores={role=12}] run function games:fight_club/character/runner/resp

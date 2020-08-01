@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~ ~ {Tags:["orig"],NoGravity:1b}

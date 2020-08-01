@@ -1,0 +1,1 @@
+give @s bow{private:1b,Enchantments:[{id:unbreaking,lvl:3},{id:punch,lvl:2},{id:vanishing_curse,lvl:1}]} 1

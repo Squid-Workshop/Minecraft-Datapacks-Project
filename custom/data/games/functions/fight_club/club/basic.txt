@@ -1,0 +1,16 @@
+
+give @a[distance=..7] bow{Enchantments:[{id:unbreaking,lvl:3},{id:punch,lvl:2},{id:vanishing_curse,lvl:1}]} 1
+
+give @a[distance=..8] minecraft:iron_axe 1
+
+give @a[distance=..11] minecraft:lingering_potion{CustomPotionEffects:[{Id:10,Amplifier:1,Duration:250,ShowParticles:0b}],CustomPotionColor:16074649,display:{Name:"\"Cherry Coke\"",Lore:["A sweet soft drink that can regenerate health"]}}
+
+give @a[distance=..12] minecraft:potion{CustomPotionEffects:[{Id:14,Duration:600,ShowParticles:0b}],CustomPotionColor:13430988,display:{Name:"\"Sprite\"",Lore:["Let you become totally invisible for 30 secs.","Don't forget to take off your armor."]}}
+
+give @a[distance=..3] minecraft:splash_potion{CustomPotionEffects:[{Id:1,Amplifier:99,Duration:60},{Id:8,Amplifier:2,Duration:60}],CustomPotionColor:5892225,display:{Name:"\"Scream\"",Lore:["Squeeze the bottle to drink.","Use it to escape."]}}
+
+give @a[distance=..3] minecraft:potion{CustomPotionEffects:[{Id:1,Amplifier:2,Duration:200,ShowParticles:0b}],CustomPotionColor:1671915,display:{Name:"\"Mi Zong\"",Lore:["A common energy drink sold in Xiao Mai Bu"]}}
+
+give @a[distance=..9] elytra{Enchantments:[{id:unbreaking,lvl:3}]} 1
+
+give @a[distance=..7] minecraft:spectral_arrow 20

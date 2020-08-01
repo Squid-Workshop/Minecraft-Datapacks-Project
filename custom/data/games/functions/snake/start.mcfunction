@@ -1,0 +1,17 @@
+execute as @e[tag=snkcntr] at @s run fill ~1 ~-1 ~1 ~10 ~-1 ~10 air
+kill @e[tag=snk]
+kill @e[tag=snkdeath]
+kill @e[tag=snkfood]
+execute as @e[tag=snkcntr] at @s run summon minecraft:armor_stand ~5 ~-0.5 ~5 {Tags:["snk","snkhd"],Invisible:1b}
+scoreboard players add @e[tag=snk] life 1
+execute as @e[tag=snkcntr] at @s run summon minecraft:armor_stand ~5 ~-0.5 ~5 {Tags:["snk","snkbdy"],Small:1b,Invisible:1b}
+scoreboard players add @e[tag=snk] life 1
+execute as @e[tag=snkcntr] at @s run summon minecraft:armor_stand ~5 ~-0.5 ~4 {Tags:["snk","snkbdy"],Small:1b,Invisible:1b}
+scoreboard players add @e[tag=snk] life 1
+execute as @e[tag=snkcntr] at @s run summon minecraft:armor_stand ~5 ~-0.5 ~3 {Tags:["snk","snkbdy"],Small:1b,Invisible:1b}
+scoreboard players add @e[tag=snk] life 1
+execute as @e[tag=snkcntr] at @s run summon minecraft:armor_stand ~5 ~-0.5 ~2 {Tags:["snk","snkbdy"],Small:1b,Invisible:1b}
+scoreboard players add @e[tag=snk] life 1
+execute as @e[tag=snkcntr] at @s run summon minecraft:armor_stand ~5 ~-0.5 ~1 {Tags:["snk","snkbdy"],Small:1b,Invisible:1b}
+scoreboard players add @e[tag=snk] life 1
+execute as @e[tag=snkcntr] at @s run function games:snake/setfood

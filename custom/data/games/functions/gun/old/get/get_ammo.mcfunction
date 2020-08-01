@@ -1,0 +1,1 @@
+give @s minecraft:melon_seeds{display:{Name:"{\"text\":\"Ammo\"}",Lore:["Put the gun in the second slot and hold shift to reload"]},ammo:1b} 64

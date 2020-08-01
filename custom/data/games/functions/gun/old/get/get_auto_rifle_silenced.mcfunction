@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{CustomModelData:10,display:{Name:"{\"text\":\"auto rifle silenced\"}"},gun:1b,auto_rifle:1b,addon:1b,silenced:1b}

@@ -1,0 +1,11 @@
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:dried_kelp"}]}] run function trade:agent/r_dried_kelp
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:sweet_berries"}]}] run function trade:agent/r_sweet_berries
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:golden_carrot"}]}] run function trade:agent/r_golden_carrot
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:apple"}]}] run function trade:agent/r_apple
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:enchanted_golden_apple"}]}] run function trade:agent/r_enchanted_golden_apple
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:golden_apple"}]}] run function trade:agent/r_golden_apple
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:cake"}]}] run function trade:agent/r_cake
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:cookie"}]}] run function trade:agent/r_cookie
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:pumpkin_pie"}]}] run function trade:agent/r_pumpkin_pie
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:glistering_melon_slice"}]}] run function trade:agent/r_glistering_melon_slice
+execute at @p[distance=0,nbt={Inventory:[{tag:{Tags:["xmb"]},id:"minecraft:spider_eye"}]}] run function trade:agent/r_spider_eye

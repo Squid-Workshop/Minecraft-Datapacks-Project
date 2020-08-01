@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~ ~ {Tags:["dest"],NoGravity:1b}

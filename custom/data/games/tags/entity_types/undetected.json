@@ -1,0 +1,25 @@
+{
+"replace": false,
+"values": [
+"minecraft:area_effect_cloud",
+"minecraft:experience_orb",
+"minecraft:experience_bottle",
+"minecraft:arrow",
+"minecraft:armor_stand",
+"minecraft:item",
+"minecraft:spectral_arrow",
+"minecraft:item_frame",
+"minecraft:painting",
+"minecraft:falling_block",
+"minecraft:evoker_fangs",
+"minecraft:leash_knot",
+"minecraft:minecart",
+"minecraft:chest_minecart",
+"minecraft:command_block_minecart",
+"minecraft:furnace_minecart",
+"minecraft:hopper_minecart",
+"minecraft:tnt_minecart",
+"minecraft:boat",
+"minecraft:end_crystal"
+]
+}

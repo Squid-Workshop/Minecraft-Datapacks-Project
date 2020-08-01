@@ -1,0 +1,4 @@
+#give @s minecraft:potion{CustomPotionEffects:[{Id:1,Amplifier:3,Duration:400},{Id:5,Amplifier:2,Duration:400},{Id:11,Amplifier:3,Duration:400},{Id:19,Amplifier:1,Duration:600}],CustomPotionColor:10555144,display:{Name:"\"Akelarre\"",Lore:["{\"text\":\"It drains ur blood\"}","{\"text\":\"to feed your rage.\"}"]},HideFlags:63} 2
+
+#increased speed, reduced duration
+give @s minecraft:potion{CustomPotionEffects:[{Id:1,Amplifier:4,Duration:200},{Id:5,Amplifier:2,Duration:200},{Id:11,Amplifier:3,Duration:200},{Id:19,Amplifier:0,Duration:200}],CustomPotionColor:10555144,display:{Name:"\"Akelarre\"",Lore:["{\"text\":\"It drains ur blood\"}","{\"text\":\"to feed your rage.\"}"]},HideFlags:63} 2

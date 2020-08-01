@@ -1,0 +1,25 @@
+
+execute at @s[tag=mscplay,scores={music=1}] run function music:song/anthem
+execute at @s[tag=mscplay,scores={music=4}] run function music:song/broadwaytoheaven
+execute at @s[tag=mscplay,scores={music=8}] run function music:song/butterfly_waltz
+execute at @s[tag=mscplay,scores={music=9}] run function music:song/castleinthesky
+execute at @s[tag=mscplay,scores={music=10}] run function music:song/forriver
+execute at @s[tag=mscplay,scores={music=2}] run function music:song/gczg
+execute at @s[tag=mscplay,scores={music=11}] run function music:song/gymnopedie
+execute at @s[tag=mscplay,scores={music=12}] run function music:song/imp_march
+execute at @s[tag=mscplay,scores={music=7}] run function music:song/jinitaimei
+execute at @s[tag=mscplay,scores={music=13}] run function music:song/lovestheme_kc
+execute at @s[tag=mscplay,scores={music=14}] run function music:song/marche_turque
+execute at @s[tag=mscplay,scores={music=15}] run function music:song/micmacs
+execute at @s[tag=mscplay,scores={music=16}] run function music:song/myheartwillgoon
+execute at @s[tag=mscplay,scores={music=24}] run function music:song/happy_birthday
+execute at @s[tag=mscplay,scores={music=3}] run function music:song/odeofcountry2
+execute at @s[tag=mscplay,scores={music=17}] run function music:song/old_money
+execute at @s[tag=mscplay,scores={music=18}] run function music:song/riverflowsinyou
+execute at @s[tag=mscplay,scores={music=19}] run function music:song/sk8ter_boi
+execute at @s[tag=mscplay,scores={music=20}] run function music:song/summer
+execute at @s[tag=mscplay,scores={music=21}] run function music:song/takemehigher_kc
+execute at @s[tag=mscplay,scores={music=22}] run function music:song/themagnificentseven_kc
+execute at @s[tag=mscplay,scores={music=23}] run function music:song/vaggvisa
+execute at @s[tag=mscplay,scores={music=5}] run function music:song/weatherforcast13
+execute at @s[tag=mscplay,scores={music=6}] run function music:song/winter_dawn

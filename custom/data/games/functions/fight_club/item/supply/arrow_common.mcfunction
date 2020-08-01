@@ -1,0 +1,3 @@
+#give @p minecraft:tipped_arrow{display:{Name:"{\"text\":\"Arrow\"}"},CustomPotionEffects:[{Id:2,Amplifier:3,Duration:40,ShowParticles:0b},{Id:24,Amplifier:1,Duration:60,ShowParticles:0b}],Potion:"minecraft:slow_falling"} 5
+
+give @s minecraft:tipped_arrow{CustomPotionEffects:[{Id:2,Amplifier:1,Duration:40,ShowParticles:0b},{Id:24,Duration:40,ShowParticles:0b}],CustomPotionColor:16768527,display:{Name:"\"Arrow\""}} 5

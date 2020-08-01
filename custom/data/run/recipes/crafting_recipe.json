@@ -1,0 +1,175 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:player_head",
+        "SkullOwner": "nzcsx"
+    },
+    "result": "minecraft:skeleton_skull",
+    "experience": 0.1,
+    "cookingtime": 200
+},
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:diamond_block"
+    },
+    "result": "minecraft:dirt",
+    "experience": 0.1,
+    "cookingtime": 1000
+},
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:stone"
+    },
+    "result": "minecraft:gold_block",
+    "experience": 0.1,
+    "cookingtime": 2000
+},
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:sponge"
+    },
+    "result": "minecraft:wet_sponge",
+    "experience": 0.1,
+    "cookingtime": 20
+},
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:water_bucket"
+    },
+    "result": "minecraft:lava_bucket",
+    "experience": 0.1,
+    "cookingtime": 200
+},
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:dirt",
+        "count": 1
+    }
+},
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:oak_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:oak_door",
+        "count": 1
+    }
+},
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:spruce_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:spruce_door",
+        "count": 1
+    }
+},
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:birch_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:birch_door",
+        "count": 1
+    }
+},
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:jungle_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:jungle_door",
+        "count": 1
+    }
+},
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:acacia_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:acacia_door",
+        "count": 1
+    }
+},
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dark_oak_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:dark_oak_door",
+        "count": 1
+    }
+},
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_door",
+        "count": 1
+    }
+}
