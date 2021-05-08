@@ -9,5 +9,5 @@ We used to lump all of our packs under /custom directory. However this is both n
 ## Packs List
 | Pack name | Description |
 | --- | :--- |
-| customn | The raw original pack we used in our server. We lumped everything into it
+| custom | The raw original pack we used in our server. We lumped everything into it
 | bool | Tags players when players perform some actions
