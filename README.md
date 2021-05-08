@@ -13,7 +13,7 @@ We used to lump all of our packs under /custom directory. However this is both n
 | Pack name | Description |
 | --- | :--- |
 | custom | The raw original pack we used in our server. We lumped everything into it
-| bool | Tags players when players perform some actions
+| bool | Tags players when players perform some actions [Detailed Instructions](https://github.com/Squid-Workshop/MinecraftDatapacksProject/tree/master/bools)
 
 ## Pack Installation
 - Step 1 Download the packs you want to install (in either the form of zip file or folder).
