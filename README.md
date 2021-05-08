@@ -1,4 +1,4 @@
-# Minecraft Datapacks Project
+# Squid Workshop's Minecraft Datapacks
 ![_squid_workshop_](ReadMeImages/top_banner.PNG)
 - [Overview](#Overview)
 - [Packs List](#Packs-List)
