@@ -1,6 +1,6 @@
 # Minecraft Datapacks Project
 - [Overview](#Overview)
-- [Packs List](#Packs List)
+- [Packs List](#Packs_List)
 
 ## Overview
 We have coded a lot of Minecraft data packs for our server, ranging from cosmetic add-on to interesting mini games. Now we want to share our creations with the community. 
