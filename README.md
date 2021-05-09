@@ -12,7 +12,7 @@ We used to lump all of our packs under /custom pack. However this is both not po
 ## Packs List
 | Name | Description | Instruction & Download |
 | --- | :--- | :--- |
-| custom | The raw original pack we used in our server. We lumped everything into it. |
+| custom | The raw original pack we used in our server. We lumped everything into it. | [link](https://github.com/Squid-Workshop/MinecraftDatapacksProject/tree/master/custom)
 | bool | Tags players when players perform some actions. | [link](https://github.com/nzcsx/Bools-Datapack-Squid-Workshop)
 
 ## Pack Installation
