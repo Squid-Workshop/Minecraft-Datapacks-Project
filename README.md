@@ -12,8 +12,8 @@ We used to lump all of our packs under /custom pack. However this is both not po
 ## Packs List
 | Pack name | Description | Instruction & Download |
 | --- | :--- | :--- |
-| custom | The raw original pack we used in our server. We lumped everything into it
-| bool | Tags players when players perform some actions | [link](https://github.com/nzcsx/Bools-Datapack-Squid-Workshop)
+| custom | The raw original pack we used in our server. We lumped everything into it. |
+| bool | Tags players when players perform some actions. | [link](https://github.com/nzcsx/Bools-Datapack-Squid-Workshop)
 
 ## Pack Installation
 - Step 1 Download the packs you want to install (in either the form of zip file or folder).
