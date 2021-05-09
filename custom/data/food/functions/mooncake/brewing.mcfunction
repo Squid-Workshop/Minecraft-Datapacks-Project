@@ -1,0 +1,3 @@
+execute if block ~ ~ ~ minecraft:brewing_stand{BrewTime:0s,Items:[{Slot:0b,id:"minecraft:potion",tag:{Potion:"minecraft:mundane"}}]} run replaceitem block ~ ~ ~ container.0 potion{display:{Name:"\"Syrup\""},Potion:"minecraft:thick"}
+execute if block ~ ~ ~ minecraft:brewing_stand{BrewTime:0s,Items:[{Slot:1b,id:"minecraft:potion",tag:{Potion:"minecraft:mundane"}}]} run replaceitem block ~ ~ ~ container.1 potion{display:{Name:"\"Syrup\""},Potion:"minecraft:thick"}
+execute if block ~ ~ ~ minecraft:brewing_stand{BrewTime:0s,Items:[{Slot:2b,id:"minecraft:potion",tag:{Potion:"minecraft:mundane"}}]} run replaceitem block ~ ~ ~ container.2 potion{display:{Name:"\"Syrup\""},Potion:"minecraft:thick"}

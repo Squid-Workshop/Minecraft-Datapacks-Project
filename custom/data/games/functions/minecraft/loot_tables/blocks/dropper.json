@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+          {
+            "type": "minecraft:alternatives",
+            "children": [
+                {
+                    "type": "minecraft:dynamic",
+                    "name": "minecraft:contents",
+                    "conditions": [
+                        {
+                            "condition": "minecraft:match_tool",
+                            "predicate": {
+                                "item": "minecraft:air",
+                                "nbt": "{drop_contents:1b}"
+                            }
+                        }
+                    ]
+                },
+                {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                    "function": "minecraft:copy_name",
+                    "source": "block_entity"
+                    }
+                ],
+                "name": "minecraft:dropper"
+                }
+            ]
+          }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,5 @@
 {
     "values": [
-	"games:camera/core/run",
     	"games:gun/core/run",
     	"games:throwable/core/run",
     	"games:fight_club/club/off_run",

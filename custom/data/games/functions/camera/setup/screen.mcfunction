@@ -9,7 +9,8 @@ function games:camera/setup/helper_screenx
 
 execute as @e[tag=screen,tag=init] at @s run function games:camera/setup/helper_screeny
 
-
+execute as @e[tag=screen] run scoreboard players operation @s x *= -1 C
+execute as @e[tag=screen] run scoreboard players operation @s x += 16 C
 
 #remove init tag
 tag @e[tag=init,tag=screen] remove init

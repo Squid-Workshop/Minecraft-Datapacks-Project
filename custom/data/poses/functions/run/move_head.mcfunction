@@ -55,9 +55,10 @@ scoreboard players operation @s as_h2 += @s _var02
 
 
 #set new pose
-execute store result entity @s Pose.Head[0] float 1 run scoreboard players get @s as_h0
+execute unless entity @s[scores={as_h0=0}] store result entity @s Pose.Head[0] float 1 run scoreboard players get @s as_h0
 execute store result entity @s Pose.Head[1] float 1 run scoreboard players get @s as_h1
 execute store result entity @s Pose.Head[2] float 1 run scoreboard players get @s as_h2
+execute if entity @s[scores={as_h0=0}] run data modify entity @s Pose.Head[0] set value 1.0
 
 #update scores
 scoreboard players remove @s as_h_t 1

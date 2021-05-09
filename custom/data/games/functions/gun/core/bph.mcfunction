@@ -12,7 +12,8 @@ execute if entity @s[scores={damage=..0}] run scoreboard players set v0 V 0
 
 #hit effect
 execute if entity @s[tag=bullet] if score v15 V matches 2 run particle minecraft:item gunpowder ~ ~ ~ 0.1 0.1 0.1 0.3 8 force
-execute if entity @s[tag=bullet] if score v15 V matches 2 run particle minecraft:white_ash ~ ~ ~ 0.05 0.05 0.05 10 20 force
+execute if entity @s[tag=bullet] if score v15 V matches 2 run particle minecraft:white_ash ~ ~ ~ 0.05 0.05 0.05 10 20
+execute if entity @s[tag=bullet] if score v15 V matches 2 run particle minecraft:dust 0 0 0 1 ~ ~ ~ 0.05 0.05 0.05 1 1 force
 execute if score v15 V matches 2 run particle minecraft:smoke ~ ~ ~ 0.1 0.1 0.1 0.3 2 force
 
 
@@ -24,11 +25,12 @@ execute if entity @s[tag=laser] if score v15 V matches 2 run particle minecraft:
 
 
 #tracing
-execute if entity @s[tag=bullet] if score rule tracer matches 1 run particle minecraft:composter ~ ~ ~ 0 0 0 1 1 force
-execute if entity @s[tag=bullet,tag=!grenade] if score rule tracer matches 1 run particle minecraft:dripping_water ~ ~-0.2 ~ 0 0 0 0.0001 1 force
-execute if entity @s[tag=bullet] if score rule tracer matches 2 run particle minecraft:dripping_lava ~ ~-0.2 ~ 0 0 0 0.0001 1 force
+execute if entity @s[tag=bullet] if score rule tracer matches 1 run particle minecraft:dust 1 0.8 0 0.07 ~ ~ ~ 0 0 0 1 1 force
+execute if entity @s[tag=bullet] if score rule tracer matches 2 run particle minecraft:composter ~ ~ ~ 0 0 0 1 1 force
+execute if entity @s[tag=bullet,tag=!grenade] if score rule tracer matches 2 run particle minecraft:dripping_water ~ ~-0.2 ~ 0 0 0 0.0001 1 force
+execute if entity @s[tag=bullet] if score rule tracer matches 3 run particle minecraft:dripping_lava ~ ~-0.2 ~ 0 0 0 0.0001 1 force
 #execute if entity @s[tag=laser] run particle minecraft:landing_lava ~ ~-0.2 ~ 0 0 0 0.0001 1
-execute if entity @s[tag=laser] run particle minecraft:composter ~ ~-0.15 ~ 0 0 0 0.0001 1 force
+execute if entity @s[tag=laser] run particle minecraft:dust 1 0 0 0.5 ~ ~-0.15 ~ 0 0 0 0.0001 1 force
 
 #arrow light
 execute if entity @s[tag=light] run particle minecraft:dripping_lava ~ ~-0.15 ~ 0 0 0 0.0001 1 force
@@ -49,6 +51,7 @@ function games:gun/core/util/bullet_player_inter
 execute positioned ~ ~-0.975 ~ positioned ^ ^ ^0.5 as @e[distance=0..4,type=#games:supported,tag=!hit] run function games:gun/core/util/hitbox
 execute as @e[type=giant,tag=!hit,distance=0..16] run function games:gun/core/util/hitbox
 execute if entity @s[tag=reflected_b] run function games:gun/core/util/hit_shield
+
 #light hit
 execute if entity @s[tag=light,tag=hit] run kill @s
 execute if entity @s[tag=light,tag=hit] run scoreboard players set v0 V 0

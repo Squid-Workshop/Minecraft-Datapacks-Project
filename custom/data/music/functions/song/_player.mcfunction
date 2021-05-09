@@ -16,7 +16,7 @@ execute at @s[tag=mscplay,scores={music=24}] run function music:song/happy_birth
 execute at @s[tag=mscplay,scores={music=3}] run function music:song/odeofcountry2
 execute at @s[tag=mscplay,scores={music=17}] run function music:song/old_money
 execute at @s[tag=mscplay,scores={music=18}] run function music:song/riverflowsinyou
-execute at @s[tag=mscplay,scores={music=19}] run function music:song/sk8ter_boi
+execute at @s[tag=mscplay,scores={music=19}] run function music:song/sk8er_boi
 execute at @s[tag=mscplay,scores={music=20}] run function music:song/summer
 execute at @s[tag=mscplay,scores={music=21}] run function music:song/takemehigher_kc
 execute at @s[tag=mscplay,scores={music=22}] run function music:song/themagnificentseven_kc
