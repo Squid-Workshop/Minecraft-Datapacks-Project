@@ -1,0 +1,11 @@
+{
+    "values": [
+	"games:camera/core/run",
+    	"games:gun/core/run",
+    	"games:throwable/core/run",
+    	"games:fight_club/club/off_run",
+		"global_variables:bools/bools_main",
+		"global_variables:non_op/run",
+		"music:song/_loop"
+    ]
+}

@@ -1,4 +1,4 @@
-﻿#起来！
+#起来！
 execute if entity @s[scores={life=133}] run title @a actionbar [{"text":"", "bold":true, "color":"gold"}, {"text":"起来！", "color":"red"}]
 execute if entity @s[scores={life=139}] run title @a actionbar [{"text":"起", "bold":true, "color":"gold"}, {"text":"来！", "color":"red"}]
 execute if entity @s[scores={life=145}] run title @a actionbar [{"text":"起来！", "bold":true, "color":"gold"}, {"text":"", "color":"red"}]
@@ -77,21 +77,21 @@ execute if entity @s[scores={life=586}] run title @a actionbar [{"text":"", "bol
 execute if entity @s[scores={life=595}] run title @a actionbar [{"text":"起", "bold":true, "color":"gold"}, {"text":"来！", "color":"red"}]
 execute if entity @s[scores={life=601}] run title @a actionbar [{"text":"起来！", "bold":true, "color":"gold"}, {"text":"", "color":"red"}]
 
-#我们万众一心，冒着敌人的炮火，
-execute if entity @s[scores={life=619}] run title @a actionbar [{"text":"", "bold":true, "color":"gold"}, {"text":"我们万众一心，冒着敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=625}] run title @a actionbar [{"text":"我", "bold":true, "color":"gold"}, {"text":"们万众一心，冒着敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=634}] run title @a actionbar [{"text":"我们", "bold":true, "color":"gold"}, {"text":"万众一心，冒着敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=637}] run title @a actionbar [{"text":"我们万", "bold":true, "color":"gold"}, {"text":"众一心，冒着敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=643}] run title @a actionbar [{"text":"我们万众", "bold":true, "color":"gold"}, {"text":"一心，冒着敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=649}] run title @a actionbar [{"text":"我们万众一", "bold":true, "color":"gold"}, {"text":"心，冒着敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=661}] run title @a actionbar [{"text":"我们万众一心，", "bold":true, "color":"gold"}, {"text":"冒着敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=673}] run title @a actionbar [{"text":"我们万众一心，冒", "bold":true, "color":"gold"}, {"text":"着敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=682}] run title @a actionbar [{"text":"我们万众一心，冒着", "bold":true, "color":"gold"}, {"text":"敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=685}] run title @a actionbar [{"text":"我们万众一心，冒着敌", "bold":true, "color":"gold"}, {"text":"人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=689}] run title @a actionbar [{"text":"我们万众一心，冒着敌人", "bold":true, "color":"gold"}, {"text":"的炮火，", "color":"red"}]
-execute if entity @s[scores={life=693}] run title @a actionbar [{"text":"我们万众一心，冒着敌人的", "bold":true, "color":"gold"}, {"text":"炮火，", "color":"red"}]
-execute if entity @s[scores={life=697}] run title @a actionbar [{"text":"我们万众一心，冒着敌人的炮", "bold":true, "color":"gold"}, {"text":"火，", "color":"red"}]
-execute if entity @s[scores={life=709}] run title @a actionbar [{"text":"我们万众一心，冒着敌人的炮火，", "bold":true, "color":"gold"}, {"text":"", "color":"red"}]
+#我们万众一心，冒着敌人的炮火
+execute if entity @s[scores={life=619}] run title @a actionbar [{"text":"", "bold":true, "color":"gold"}, {"text":"我们万众一心，冒着敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=625}] run title @a actionbar [{"text":"我", "bold":true, "color":"gold"}, {"text":"们万众一心，冒着敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=634}] run title @a actionbar [{"text":"我们", "bold":true, "color":"gold"}, {"text":"万众一心，冒着敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=637}] run title @a actionbar [{"text":"我们万", "bold":true, "color":"gold"}, {"text":"众一心，冒着敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=643}] run title @a actionbar [{"text":"我们万众", "bold":true, "color":"gold"}, {"text":"一心，冒着敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=649}] run title @a actionbar [{"text":"我们万众一", "bold":true, "color":"gold"}, {"text":"心，冒着敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=661}] run title @a actionbar [{"text":"我们万众一心，", "bold":true, "color":"gold"}, {"text":"冒着敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=673}] run title @a actionbar [{"text":"我们万众一心，冒", "bold":true, "color":"gold"}, {"text":"着敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=682}] run title @a actionbar [{"text":"我们万众一心，冒着", "bold":true, "color":"gold"}, {"text":"敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=685}] run title @a actionbar [{"text":"我们万众一心，冒着敌", "bold":true, "color":"gold"}, {"text":"人的炮火", "color":"red"}]
+execute if entity @s[scores={life=689}] run title @a actionbar [{"text":"我们万众一心，冒着敌人", "bold":true, "color":"gold"}, {"text":"的炮火", "color":"red"}]
+execute if entity @s[scores={life=693}] run title @a actionbar [{"text":"我们万众一心，冒着敌人的", "bold":true, "color":"gold"}, {"text":"炮火", "color":"red"}]
+execute if entity @s[scores={life=697}] run title @a actionbar [{"text":"我们万众一心，冒着敌人的炮", "bold":true, "color":"gold"}, {"text":"火", "color":"red"}]
+execute if entity @s[scores={life=709}] run title @a actionbar [{"text":"我们万众一心，冒着敌人的炮火", "bold":true, "color":"gold"}, {"text":"", "color":"red"}]
 
 #前进！
 execute if entity @s[scores={life=715}] run title @a actionbar [{"text":"", "bold":true, "color":"gold"}, {"text":"前进！", "color":"red"}]
@@ -99,14 +99,14 @@ execute if entity @s[scores={life=721}] run title @a actionbar [{"text":"前", "
 execute if entity @s[scores={life=733}] run title @a actionbar [{"text":"前进！", "bold":true, "color":"gold"}, {"text":"", "color":"red"}]
 
 #冒着敌人的炮火
-execute if entity @s[scores={life=739}] run title @a actionbar [{"text":"", "bold":true, "color":"gold"}, {"text":"冒着敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=745}] run title @a actionbar [{"text":"冒", "bold":true, "color":"gold"}, {"text":"着敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=754}] run title @a actionbar [{"text":"冒着", "bold":true, "color":"gold"}, {"text":"敌人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=757}] run title @a actionbar [{"text":"冒着敌", "bold":true, "color":"gold"}, {"text":"人的炮火，", "color":"red"}]
-execute if entity @s[scores={life=761}] run title @a actionbar [{"text":"冒着敌人", "bold":true, "color":"gold"}, {"text":"的炮火，", "color":"red"}]
-execute if entity @s[scores={life=765}] run title @a actionbar [{"text":"冒着敌人的", "bold":true, "color":"gold"}, {"text":"炮火，", "color":"red"}]
-execute if entity @s[scores={life=769}] run title @a actionbar [{"text":"冒着敌人的炮", "bold":true, "color":"gold"}, {"text":"火，", "color":"red"}]
-execute if entity @s[scores={life=781}] run title @a actionbar [{"text":"冒着敌人的炮火，", "bold":true, "color":"gold"}, {"text":"", "color":"red"}]
+execute if entity @s[scores={life=739}] run title @a actionbar [{"text":"", "bold":true, "color":"gold"}, {"text":"冒着敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=745}] run title @a actionbar [{"text":"冒", "bold":true, "color":"gold"}, {"text":"着敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=754}] run title @a actionbar [{"text":"冒着", "bold":true, "color":"gold"}, {"text":"敌人的炮火", "color":"red"}]
+execute if entity @s[scores={life=757}] run title @a actionbar [{"text":"冒着敌", "bold":true, "color":"gold"}, {"text":"人的炮火", "color":"red"}]
+execute if entity @s[scores={life=761}] run title @a actionbar [{"text":"冒着敌人", "bold":true, "color":"gold"}, {"text":"的炮火", "color":"red"}]
+execute if entity @s[scores={life=765}] run title @a actionbar [{"text":"冒着敌人的", "bold":true, "color":"gold"}, {"text":"炮火", "color":"red"}]
+execute if entity @s[scores={life=769}] run title @a actionbar [{"text":"冒着敌人的炮", "bold":true, "color":"gold"}, {"text":"火", "color":"red"}]
+execute if entity @s[scores={life=781}] run title @a actionbar [{"text":"冒着敌人的炮火", "bold":true, "color":"gold"}, {"text":"", "color":"red"}]
 
 #前进！
 execute if entity @s[scores={life=787}] run title @a actionbar [{"text":"", "bold":true, "color":"gold"}, {"text":"前进！", "color":"red"}]

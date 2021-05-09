@@ -1,5 +1,4 @@
-scoreboard players operation rand V = rand accu
-#scoreboard players add rand accu 23
+execute if entity @s[tag=!offset] run function games:gun/core/util/random
 scoreboard players operation rand V %= 20 C
 
 execute if score rand V matches 0 run tp @s ~ ~ ~ facing ^-0.1 ^0.1 ^1
@@ -22,3 +21,4 @@ execute if score rand V matches 16 run tp @s ~ ~ ~ facing ^1.4 ^0.1 ^1
 execute if score rand V matches 17 run tp @s ~ ~ ~ facing ^-1.3 ^0.10 ^-1
 execute if score rand V matches 18 run tp @s ~ ~ ~ facing ^1.8 ^-0.25 ^-1
 execute if score rand V matches 19 run tp @s ~ ~ ~ facing ^100 ^ ^1
+

@@ -62,15 +62,15 @@ execute as @a[tag=shift_bool,scores={climb=1..,role=11},tag=ingame] at @s run ef
 execute as @a[tag=shift_bool,scores={climb=1..,role=12},tag=ingame] at @s run effect give @s minecraft:levitation 1 4 true
 #clear climb
 execute as @a[tag=!shift_bool,scores={climb=..8,role=3},tag=ingame] at @s run effect clear @s minecraft:levitation
-execute as @a[tag=!shift_bool,scores={climb=..7,role=7},tag=ingame] at @s run effect clear @s minecraft:levitation
-execute as @a[tag=!shift_bool,scores={climb=..7,role=11},tag=ingame] at @s run effect clear @s minecraft:levitation
+execute as @a[tag=!shift_bool,scores={climb=..8,role=7},tag=ingame] at @s run effect clear @s minecraft:levitation
+execute as @a[tag=!shift_bool,scores={climb=..8,role=11},tag=ingame] at @s run effect clear @s minecraft:levitation
 execute as @a[tag=!shift_bool,scores={climb=..8,role=12},tag=ingame] at @s run effect clear @s minecraft:levitation
-execute as @a[tag=!shift_bool,scores={climb=0},tag=ingame] at @s run effect clear @s minecraft:levitation
+execute as @a[tag=!shift_bool,scores={climb=..5},tag=ingame] at @s run effect clear @s minecraft:levitation
 #limit climb
 execute as @a[scores={climb=10..}] run scoreboard players set @s climb 10
 
 #clear climb
-execute as @a[tag=shift_bool,scores={climb=1..},tag=ingame] at @s run scoreboard players remove @s climb 1
+execute as @a[tag=!shift_bool,scores={climb=1..},tag=ingame] at @s run scoreboard players remove @s climb 1
 ###############################climb
 ######################global features#####################
 

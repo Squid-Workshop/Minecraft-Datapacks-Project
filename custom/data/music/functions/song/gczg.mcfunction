@@ -2075,6 +2075,6 @@ execute if entity @s[scores={life=1519}] run execute at @a run playsound minecra
 execute if entity @s[scores={life=1521}] run execute at @a run playsound minecraft:block.note_block.guitar player @p ~ ~ ~ 1 0.707107 1
 execute if entity @s[scores={life=1521}] run execute at @a run playsound minecraft:block.note_block.guitar player @p ~ ~ ~ 1 0.943874 1
 execute if entity @s[scores={life=1521}] run execute at @a run playsound minecraft:block.note_block.guitar player @p ~ ~ ~ 1 1.189207 1
-#execute if entity @s[scores={life=..1526}] run function music:song/gczg_lyrics
-execute if entity @s[scores={life=1526..}] run function music:song/kill
+execute if entity @s[scores={life=..1526}] run function music:song/gczg_lyrics
+execute if entity @s[scores={life=1527..}] run function music:song/kill
 scoreboard players add @e[distance=..1,tag=mscplay] life 1
