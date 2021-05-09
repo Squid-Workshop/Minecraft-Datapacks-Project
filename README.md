@@ -1,5 +1,5 @@
 # _Squid Workshop's_ Minecraft Data Packs
-![_squid_workshop_](ReadMeImages/top_banner.PNG)
+![_squid_workshop_](images/top_banner.PNG)
 - [Overview](#Overview)
 - [Packs List](#Packs-List)
 - [Pack Installation](#Pack-Installation)
