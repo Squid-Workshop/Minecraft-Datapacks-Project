@@ -1,7 +1,7 @@
 #rand
-execute if entity @s[tag=!offset] run scoreboard players add rand accu 11
-execute if entity @s[tag=!offset] run scoreboard players operation rand V = rand accu
-
+#execute if entity @s[tag=!offset] run scoreboard players add rand accu 11
+#execute if entity @s[tag=!offset] run scoreboard players operation rand V = rand accu
+execute if entity @s[tag=!offset] run function games:gun/core/util/random
 execute if entity @s[tag=!offset] run scoreboard players operation rand V %= 10 C
 
 #execute if entity @s[tag=!offset] run say no
@@ -28,4 +28,4 @@ execute if score @s spread matches 6 run function games:gun/core/spread/spread6
 
 execute if entity @s[tag=!grenade] run scoreboard players set @s spread 0
 
-tag @e[tag=offset] remove offset
+tag @s[tag=offset] remove offset

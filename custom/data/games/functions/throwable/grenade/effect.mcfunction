@@ -47,43 +47,7 @@ function games:throwable/grenade/fire_procedure
 function games:throwable/grenade/fire_procedure
 function games:throwable/grenade/fire_procedure
 function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
-function games:throwable/grenade/fire_procedure
+
 
 
 

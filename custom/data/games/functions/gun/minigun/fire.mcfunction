@@ -71,6 +71,8 @@ execute if entity @s[scores={shift=1..}] run scoreboard players remove @s spread
 scoreboard players operation @e[tag=new_b,limit=1,sort=nearest] spread = @s spread
 
 
+function games:gun/core/util/quick_random
+
 #spread
 execute as @e[tag=new_b,limit=1,sort=nearest] at @s run function games:gun/core/spread/spread
 
@@ -80,4 +82,6 @@ execute as @e[tag=new_b,limit=1,sort=nearest] at @s run function games:gun/core/
 tag @e[tag=new_b,limit=1,sort=nearest] add fired_b
 
 tag @e[tag=new_b,limit=1,sort=nearest] remove new_b
+
+
 

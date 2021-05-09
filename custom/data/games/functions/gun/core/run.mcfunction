@@ -133,6 +133,9 @@ execute as @a[scores={shift=0,aim=1..},nbt={SelectedItem:{tag:{gun:1b}}}] run sc
 #limit aim
 execute as @a[scores={aim=3..}] run scoreboard players set @s aim 3
 
+#climb clear aim shift
+execute as @a[scores={shift=1..,climb=1..}] run scoreboard players set @s shift 0
+
 #################clear aim################
 #rifle
 execute as @a[scores={shift=0,aim=1..},nbt={SelectedItem:{tag:{rifle:1b,silenced:0}}}] at @s run function games:gun/rifle/clear_aim

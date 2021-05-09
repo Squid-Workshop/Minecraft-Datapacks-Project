@@ -1,0 +1,9 @@
+{
+    "values": [
+	"games:camera/setup/setup",
+	"games:gun/core/setup",
+	"games:throwable/core/setup",
+	"games:fight_club/club/setup",
+	"games:server/loaded"
+    ]
+}
