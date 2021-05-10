@@ -5,17 +5,16 @@
           |____packName1
           |  |____functions
           |    |____classes
-          |      |____main
-          |      | |____tick.mcfunction
-          |      | |____setup(/on/load/install).mcfunction: clear + declare score objs
-          |      | |____clear(/off/clean).mcfunction: clear score objs
-          |      |____other classes
-          |        |____other function.mcfunction
-          |____ui
-          |  |____functions
-          |    |____packName1
-          |      |____unistall(/off/unload).mcfunction: clear + datapack disable
-          |      |____other commands.mcfunction
+          |    | |____main
+          |    | | |____tick.mcfunction
+          |    | | |____setup(/on/load/install).mcfunction: clear + declare score objs
+          |    | | |____clear(/off/clean).mcfunction: clear score objs
+          |    | |____other classes
+          |    |   |____other function.mcfunction
+          |    |____ui
+          |      |____functions
+          |        |____unistall(/off/unload).mcfunction: clear + datapack disable
+          |        |____other commands.mcfunction
           |____minecraft
              |____tags
                |____functions
