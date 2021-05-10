@@ -1,8 +1,9 @@
 ## Datapack Naming Standard
-packName1-Minecraft-Datapack-Squid-Workshop
+Respository Naming: packName1-Minecraft-Datapack-Squid-Workshop
+Datapack Naming: packName1-Squid-Workshop
 
 ## Datapack Structure Standard
-    packName1-Minecraft-Datapack-Squid-Workshop
+    packName1-Squid-Workshop
         |____data
           |____packName1
           |  |____functions
