@@ -1,8 +1,10 @@
-## Datapack Structure Standard
+## Datapack Naming Standard
+PackName1-Minecraft-Datapack-Squid-Workshop
 
-    packName1-Minecraft-Datapack-Squid-Workshop
+## Datapack Structure Standard
+    PackName1-Minecraft-Datapack-Squid-Workshop
         |____data
-          |____packName1
+          |____PackName1
           |  |____functions
           |    |____classes
           |    | |____main
@@ -20,8 +22,5 @@
                |____functions
                  |____load.json: datapack1/classes/main/setup(/on/load/install)
                  |____tick.json: datapack1/classes/main/tick
-
-## Datapack and Repository Naming Standard
-Datapack repository name: coreName-Minecraft-Datapack-Squid-workshop
 
 ## Function Calls
