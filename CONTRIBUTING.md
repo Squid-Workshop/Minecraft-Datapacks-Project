@@ -1,10 +1,10 @@
 ## Datapack Naming Standard
-PackName1-Minecraft-Datapack-Squid-Workshop
+packName1-Minecraft-Datapack-Squid-Workshop
 
 ## Datapack Structure Standard
-    PackName1-Minecraft-Datapack-Squid-Workshop
+    packName1-Minecraft-Datapack-Squid-Workshop
         |____data
-          |____PackName1
+          |____packName1
           |  |____functions
           |    |____classes
           |    | |____main
