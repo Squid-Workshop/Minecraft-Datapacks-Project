@@ -21,9 +21,8 @@ Example:\
           |    | |____other classes
           |    |   |____other function.mcfunction
           |    |____ui
-          |      |____functions
-          |        |____unload.mcfunction: clean + datapack disable
-          |        |____other commands.mcfunction
+          |      |____unload.mcfunction: clean + datapack disable
+          |      |____other commands.mcfunction
           |____minecraft
              |____tags
                |____functions
