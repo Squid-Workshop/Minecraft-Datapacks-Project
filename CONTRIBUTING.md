@@ -1,6 +1,6 @@
 ## Datapack Structure Standard
 
-    coreName1-Minecraft-Datapack-Squid-Workshop
+    packName1-Minecraft-Datapack-Squid-Workshop
         |____data
           |____coreName1
           |  |____functions
@@ -13,7 +13,7 @@
           |        |____other function.mcfunction
           |____ui
           |  |____functions
-          |    |____coreName1
+          |    |____packName1
           |      |____unistall(/off/unload).mcfunction: clear + datapack disable
           |      |____other commands.mcfunction
           |____minecraft
