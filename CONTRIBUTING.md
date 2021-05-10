@@ -2,7 +2,7 @@
 
     packName1-Minecraft-Datapack-Squid-Workshop
         |____data
-          |____coreName1
+          |____packName1
           |  |____functions
           |    |____classes
           |      |____main
