@@ -23,7 +23,7 @@ We used to lump all of our packs under /custom pack. However this is both not po
 - Step 4 Go to .../world/datapacks folder.
 - Step 5 Move your data pack files or folders into .../world/datapacks folder.
 - Step 6 Open Minecraft and open your world.
-- Step 7 Use /reload command.
+- Step 7 Type "/reload" command then press enter.
 - Step 8 Enjoy
 
 PS: If not working, check whether the datapack is enabled by:
