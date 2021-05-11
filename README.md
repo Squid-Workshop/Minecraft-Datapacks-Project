@@ -14,8 +14,8 @@ We used to lump all of our packs under /custom pack. However this is both not po
 | --- | :------ | :------ |
 | custom | The raw original pack we used in our server. We lumped everything into it. | [link](https://github.com/Squid-Workshop/MinecraftDatapacksProject/tree/master/custom)
 | bools | Tags players when players perform some actions. | [link](https://github.com/nzcsx/Bools-Datapack-Squid-Workshop)
-| guns| Various guns (under revision, plz wait patiently) | [link](https://github.com/DaveHJT/Damage-Datapack-Minecraft-Squid-Workshop)
-| damage| Custom damage system| [link](https://github.com/DaveHJT/Gun-Minecraft-Datapack-Squid-Workshop)
+| guns| Various guns. | [link](https://github.com/DaveHJT/Damage-Datapack-Minecraft-Squid-Workshop)
+| damage| custom damage system, including custom death message and pvp kills count.| [link](https://github.com/DaveHJT/Gun-Minecraft-Datapack-Squid-Workshop)
 
 ## Pack Installation
 - Step 1 Download the packs you want to install (in either the form of zip file or folder).
