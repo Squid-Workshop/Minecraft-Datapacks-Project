@@ -28,8 +28,8 @@ We used to lump all of our packs under /custom pack. However this is both not po
 
 PS: If not working, check whether the datapack is enabled by:
 
-		/datapack list
+	/datapack list
 Enable it by:
 
-		/datapack enable "datapackname"
+	/datapack enable "datapackname"
 
