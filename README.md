@@ -33,4 +33,15 @@ PS: If not working, check whether the datapack is enabled by:
 Enable it by:
 
 	/datapack enable "datapackname"
+	
+# Terms of Use
+Feel free to play around with this datapack. \
+As developer, deel free to use this datapack as a module. \
+But you **must** add the link to this github page!
+
+# More About Squid Workshop
+See more datapacks developed by us [here](https://github.com/Squid-Workshop/MinecraftDatapacksProject) \
+Watch our videos on bilibili [here](https://space.bilibili.com/649645265?from=search&seid=778816111336987286) \
+Join our QQ group: 74681732 \
+Subscribe on wechat: 鱿鱼MC工作室 
 
