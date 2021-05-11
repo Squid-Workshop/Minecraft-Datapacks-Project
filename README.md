@@ -18,8 +18,8 @@ We used to lump all of our packs under /custom pack. However this is both not po
 
 ## Pack Installation
 - Step 1 Download the packs you want to install (in either the form of zip file or folder).
-- Step 2 Go to C:/Users/youUserName/AppData/Roaming/.minecraft/saves directory.
-- Step 3 Go to the world folder in which you want to install the packs.
+- Step 2 Go to minecraft saves directory, usually "C:/Users/youUserName/AppData/Roaming/.minecraft/saves".
+- Step 3 Choose the world folder in which you want to install the packs.
 - Step 4 Go to .../world/datapacks folder.
 - Step 5 Move your data pack files or folders into .../world/datapacks folder.
 - Step 6 Open Minecraft and open your world.
