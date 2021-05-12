@@ -22,13 +22,11 @@
           |    | |____clean.mcfunction: [remove score objs and tags]
           |    |____other classes
           |    |____other function.mcfunction
-	  |
           |____ui
 	  |  |____functions
 	  |    |____PackName
           |      |____unload.mcfunction: clean.mcfunction + [datapack disable]
           |      |____other commands.mcfunction
-	  |
           |____minecraft
              |____tags
                |____functions
