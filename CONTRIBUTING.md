@@ -11,6 +11,7 @@
 
 
 ## Datapack Structure Standard
+
     PackName-Squid-Workshop
         |____data
           |____PackName
