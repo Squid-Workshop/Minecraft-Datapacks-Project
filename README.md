@@ -37,7 +37,7 @@ Enable it by:
 # Terms of Use
 Feel free to play around with this datapack. \
 As developer, deel free to use this datapack as a module to develop free datapacks. \
-But you **must** add the link to this github page!
+But you **must** add the link to this github page! \
 **NO COMMERCIAL USE**
 
 # More About Squid Workshop
