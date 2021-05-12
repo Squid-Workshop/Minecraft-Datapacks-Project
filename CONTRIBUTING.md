@@ -4,7 +4,6 @@
 **Datapack Naming**: PackName-Squid-Workshop-MinecraftVersion\
 **Core Name**: PackName
 
-
 	Example:
 	Respository Naming: Damage-Minecraft-Datapack-Squid-Workshop
 	Datapack Naming: Damage-Squid-Workshop-1.16.5
@@ -17,15 +16,19 @@
           |____PackName
           |  |____functions
           |    |____classes
-          |    | |____main
-          |    | | |____tick.mcfunction
-          |    | | |____load.mcfunction: clean.mcfunction + [declare score objs]
-          |    | | |____clean.mcfunction: [remove score objs and tags]
-          |    | |____other classes
-          |    |   |____other function.mcfunction
-          |    |____ui
+          |    |____main
+          |    | |____tick.mcfunction
+          |    | |____load.mcfunction: clean.mcfunction + [declare score objs]
+          |    | |____clean.mcfunction: [remove score objs and tags]
+          |    |____other classes
+          |    |____other function.mcfunction
+	  |
+          |____ui
+	  |  |____functions
+	  |    |____PackName
           |      |____unload.mcfunction: clean.mcfunction + [datapack disable]
           |      |____other commands.mcfunction
+	  |
           |____minecraft
              |____tags
                |____functions
