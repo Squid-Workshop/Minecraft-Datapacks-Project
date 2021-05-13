@@ -12,9 +12,9 @@
 
 ## Datapack Structure Standard
 
-    PackName-Squid-Workshop
+    PackName-Datapack-Squid-Workshop
         |____data
-          |____PackName
+          |____packName
           |  |____functions
           |    |____classes
           |    |____main
@@ -26,7 +26,7 @@
           |
           |____app
           |  |____functions
-          |    |____PackName
+          |    |____packName
           |      |____unload.mcfunction: clean.mcfunction + [datapack disable]
           |      |____other commands.mcfunction
           |
