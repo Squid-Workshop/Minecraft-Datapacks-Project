@@ -29,6 +29,7 @@
           |    |____PackName
           |      |____unload.mcfunction: clean.mcfunction + [datapack disable]
           |      |____other commands.mcfunction
+          |
           |____minecraft
              |____tags
                |____functions
