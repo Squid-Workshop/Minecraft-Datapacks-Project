@@ -2,7 +2,7 @@
 ## Datapack Naming Standard
 **Respository Naming**: PackName-Minecraft-Datapack-Squid-Workshop\
 **Datapack Naming**: PackName-Squid-Workshop-MinecraftVersion\
-**Core Name**: PackName
+**Core Name**: packName
 
 	Example:
 	Respository Naming: Damage-Minecraft-Datapack-Squid-Workshop
@@ -12,29 +12,31 @@
 
 ## Datapack Structure Standard
 
-    PackName-Datapack-Squid-Workshop
-        |____data
-          |____packName
-          |  |____functions
-          |    |____classes
-          |    |____main
-          |    | |____tick.mcfunction
-          |    | |____load.mcfunction: clean.mcfunction + [declare score objs]
-          |    | |____clean.mcfunction: [remove score objs and tags]
-          |    |____other classes
-          |    |____other function.mcfunction
-          |
-          |____app
-          |  |____functions
-          |    |____packName
-          |      |____unload.mcfunction: clean.mcfunction + [datapack disable]
-          |      |____other commands.mcfunction
-          |
-          |____minecraft
-             |____tags
-               |____functions
-                 |____load.json: PackName/classes/main/load
-                 |____tick.json: PackName/classes/main/tick
+	PackName-Datapack-Squid-Workshop
+	│  pack.mcmeta
+	│  pack.png
+	│
+	└─data
+	    ├─packName
+	    │  └─functions
+	    │     └─classes
+	    │        ├─main
+	    │        │    clean.mcfunction: [remove score objs and tags]
+	    │        │    load.mcfunction: clean.mcfunction + [declare score objs]
+	    │        │    tick.mcfunction]
+	    │        └─other_classes
+ 	    │             other_function.mcfunction
+ 	    ├─app
+ 	    │  └─functions
+	    │     └─packName
+	    │          unload.mcfunction: clean.mcfunction + [datapack disable]
+	    │          other_commands.mcfunction
+	    └─minecraft
+	       └─tags
+		  └─functions
+		       load.json: packName:classes/main/load.mcfunction
+		       tick.json: packName:classes/main/tick.mcfunction
+
 
 ## Function Calls
 ### Core Functions
