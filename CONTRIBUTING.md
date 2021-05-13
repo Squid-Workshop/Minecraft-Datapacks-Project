@@ -24,7 +24,7 @@
           |    |____other classes
           |    |____other function.mcfunction
           |
-          |____ui
+          |____app
           |  |____functions
           |    |____PackName
           |      |____unload.mcfunction: clean.mcfunction + [datapack disable]
