@@ -23,6 +23,7 @@
           |    | |____clean.mcfunction: [remove score objs and tags]
           |    |____other classes
           |    |____other function.mcfunction
+          |
           |____ui
           |  |____functions
           |    |____PackName
