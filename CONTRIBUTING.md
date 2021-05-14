@@ -1,7 +1,7 @@
 
 ## Naming Standard
 **Respository Name**: PackName-Minecraft-Squid-Workshop-Project\
-**Datapack Name**: PackName-Datapack-Squid-Workshop-MinecraftVersion\
+**Datapack Name**: PackName-Datapack-Squid-Workshop-GameVersion\
 **Resourcepack Name**: PackName-Resourcepack-Squid-Workshop-MinecraftVersion\
 **Core Name**: packName
 
@@ -14,7 +14,7 @@
 
 ## Datapack Structure Standard
 
-	PackName-Datapack-Squid-Workshop
+	PackName-Datapack-Squid-Workshop-GameVersion
 	│  pack.mcmeta
 	│  pack.png
 	│
