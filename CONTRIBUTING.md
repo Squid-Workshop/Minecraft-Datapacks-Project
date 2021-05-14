@@ -1,13 +1,15 @@
 
 ## Datapack Naming Standard
-**Respository Naming**: PackName-Minecraft-Datapack-Squid-Workshop\
-**Datapack Naming**: PackName-Squid-Workshop-MinecraftVersion\
+**Respository Name**: PackName-Minecraft-Squid-Workshop-Project\
+**Datapack Name**: PackName-Datapack-Squid-Workshop-MinecraftVersion
+**Resourcepack Name**: PackName-Resourcepack-Squid-Workshop-MinecraftVersion\
 **Core Name**: packName
 
 	Example:
-	Respository Naming: Damage-Minecraft-Datapack-Squid-Workshop
-	Datapack Naming: Damage-Squid-Workshop-1.16.5
-	Core Name: damage
+	Respository Naming: Gun-Minecraft-Squid-Workshop-Project
+	Datapack Naming: Gun-Datapack-Squid-Workshop-1.16.5
+	Resourcepack Name: Gun-Resourcepack-Squid-Workshop-1.16.5
+	Core Name: gun
 
 
 ## Datapack Structure Standard
