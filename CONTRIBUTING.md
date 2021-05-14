@@ -33,6 +33,7 @@
 	    │     └─packName
 	    │          unload.mcfunction: clean.mcfunction + [datapack disable]
 	    │          other_commands.mcfunction
+	    │
 	    └─minecraft
 	       └─tags
 		  └─functions
