@@ -6,8 +6,8 @@
 **Core Name**: packName
 
 	Example:
-	Respository Naming: Gun-Minecraft-Squid-Workshop-Project
-	Datapack Naming: Gun-Datapack-Squid-Workshop-1.16.5
+	Respository Name: Gun-Minecraft-Squid-Workshop-Project
+	Datapack Name: Gun-Datapack-Squid-Workshop-1.16.5
 	Resourcepack Name: Gun-Resourcepack-Squid-Workshop-1.16.5
 	Core Name: gun
 
