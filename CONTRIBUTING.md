@@ -2,7 +2,7 @@
 ## Naming Standard
 **Respository Name**: PackName-Minecraft-Squid-Workshop-Project\
 **Datapack Name**: PackName-Datapack-Squid-Workshop-GameVersion\
-**Resourcepack Name**: PackName-Resourcepack-Squid-Workshop-MinecraftVersion\
+**Resourcepack Name**: PackName-Resourcepack-Squid-Workshop-GameVersion\
 **Core Name**: packName
 
 	Example:
