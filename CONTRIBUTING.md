@@ -19,15 +19,6 @@
 	│  pack.png
 	│
 	└─data
-	    ├─packName
-	    │  └─functions
-	    │     └─classes
-	    │        ├─main
-	    │        │    clean.mcfunction: [remove score objs and tags]
-	    │        │    load.mcfunction: clean.mcfunction + [declare score objs]
-	    │        │    tick.mcfunction]
-	    │        └─other_classes
- 	    │             other_function.mcfunction
  	    ├─app
  	    │  └─functions
 	    │     └─unload
@@ -43,6 +34,16 @@
 	    |     └─get
 	    |       └─packName
 	    |         └─itemName.mcfunction
+	    |
+	    ├─packName
+	    │  └─functions
+	    │     └─classes
+	    │        ├─main
+	    │        │    clean.mcfunction: [remove score objs and tags]
+	    │        │    load.mcfunction: clean.mcfunction + [declare score objs]
+	    │        │    tick.mcfunction]
+	    │        └─other_classes
+ 	    │             other_function.mcfunction
 	    │
 	    └─minecraft
 	       └─tags
