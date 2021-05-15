@@ -30,9 +30,19 @@
  	    │             other_function.mcfunction
  	    ├─app
  	    │  └─functions
-	    │     └─packName
-	    │          unload.mcfunction: clean.mcfunction + [datapack disable]
-	    │          other_commands.mcfunction
+	    │     └─unload
+	    │     |   └─packName.mcfunction: clean.mcfunction + [datapack disable]
+	    │     └─setting
+	    |     | └─packName
+	    |     |   └─setting1Name
+	    |     |   | └─option1Name.mcfunction
+	    |     |   | └─option2Name.mcfunction
+	    |     |   └─setting2Name
+	    |     |     └─option1Name.mcfunction
+	    |     |     └─option2Name.mcfunction
+	    |     └─get
+	    |       └─packName
+	    |         └─itemName.mcfunction
 	    │
 	    └─minecraft
 	       └─tags
@@ -48,8 +58,8 @@
 	*	**tick.mcfunction**: Put this function in tick.json then it will be called every tick in game.
 	*	**load.mcfunction**: Put this function in load.json then it will be called when the datapack is first loaded, such as "/datapack enable" or "/reload". It is responsible for setting up the datapack.
 	*	**clean.mcfunction**: This function is responsible for cleaning up the scoreboards and tags, and other things this datapack created on setup and during the game.
-### UI Functions
-*	**"function PackName:ui/..."** is where you put all the functions that allows user to interact with this datapack, including settings, commands etc.
+### App Functions
+*	**"function app:..."** is where you put all the functions that allows user to interact with this datapack, including settings, unistall, get items etc.
 *	Only one functions is required here: 
-	* **unload.mcfunction**: user call this function to clean up all the scoreboards, tags and other stuff this datapack ever created, and the datapack should disable itself here.
+	* **app:unload/packName.mcfunction**: user call this function to clean up all the scoreboards, tags and other stuff this datapack ever created, and the datapack should disable itself here.
 	
