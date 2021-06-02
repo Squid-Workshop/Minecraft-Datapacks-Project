@@ -13,7 +13,7 @@ We used to lump all of our packs under /custom pack. However this is both not po
 | Name | Description | Instruction & Download |
 | --- | :------ | :------ |
 | custom | The raw original pack we used in our server. We lumped everything into it. | [link](https://github.com/Squid-Workshop/MinecraftDatapacksProject/tree/master/custom)
-| bools | Tags players when players perform some actions. | [link](https://github.com/nzcsx/Bools-Datapack-Squid-Workshop)
+| bools | Set players' scores to 1 when players perform certain actions. | [link](https://github.com/nzcsx/Bools-Datapack-Squid-Workshop)
 | damage | A custom damage system, including custom death message and pvp kills count. | [link](https://github.com/DaveHJT/Damage-Datapack-Minecraft-Squid-Workshop)
 | firearm | Various guns and throwables. | [link](https://github.com/DaveHJT/Gun-Minecraft-Datapack-Squid-Workshop)
 | autoaim | Helps aiming using bows. | [link](https://github.com/MingshiYangUIUC/Autoaim-Minecraft-Squid-Workshop-Project)
