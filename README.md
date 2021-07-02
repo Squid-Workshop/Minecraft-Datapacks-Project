@@ -16,7 +16,7 @@ We used to lump all of our packs under /custom pack. However this is both not po
 | bools | Set players' scores to 1 when players perform certain actions. | [link](https://github.com/nzcsx/Bools-Datapack-Squid-Workshop)
 | damage | A custom damage system, including custom death message and pvp kills count. | [link](https://github.com/DaveHJT/Damage-Datapack-Minecraft-Squid-Workshop)
 | firearm | Various guns and throwables. | [link](https://github.com/DaveHJT/Gun-Minecraft-Datapack-Squid-Workshop)
-| autoaim | Aimbot "hack" with bows. | [link](https://github.com/MingshiYangUIUC/Autoaim-Minecraft-Squid-Workshop-Project)
+| autoaim | Aimbot "hack" with bows. (calculate and track projectile trajectory) | [link](https://github.com/MingshiYangUIUC/Autoaim-Minecraft-Squid-Workshop-Project)
 | pool | Play pool (cue sports) in Minecraft. | [link](https://github.com/MingshiYangUIUC/Pool-Minecraft-Squid-Workshop-Project) 
 | pool pro | Play more realistic pool with higher performance requirement in Minecraft. | [link](https://github.com/MingshiYangUIUC/Pool-Evolved-Minecraft-Squid-Workshop-Project)
 
