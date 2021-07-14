@@ -1,12 +1,12 @@
 
 ## Naming Standard
-**Respository Name**: PackName-Minecraft-Squid-Workshop-Project\
+**Repository Name**: PackName-Minecraft-Squid-Workshop-Project\
 **Datapack Name**: PackName-Datapack-Squid-Workshop-GameVersion\
 **Resourcepack Name**: PackName-Resourcepack-Squid-Workshop-GameVersion\
 **Core Name**: packName
 
 	Example:
-	Respository Name: Gun-Minecraft-Squid-Workshop-Project
+	Repository Name: Gun-Minecraft-Squid-Workshop-Project
 	Datapack Name: Gun-Datapack-Squid-Workshop-1.16.5
 	Resourcepack Name: Gun-Resourcepack-Squid-Workshop-1.16.5
 	Core Name: gun
@@ -61,6 +61,6 @@
 	*	**clean.mcfunction**: This function is responsible for cleaning up the scoreboards and tags, and other things this datapack created on setup and during the game.
 ### App Functions
 *	**"function app:..."** is where you put all the functions that allows user to interact with this datapack, including settings, unistall, get items etc.
-*	Only one functions is required here: 
+*	Only one function is required here: 
 	* **app:unload/packName.mcfunction**: user call this function to clean up all the scoreboards, tags and other stuff this datapack ever created, and the datapack should disable itself here.
 	
