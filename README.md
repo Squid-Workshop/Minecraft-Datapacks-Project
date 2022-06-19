@@ -17,8 +17,7 @@ We used to lump all of our packs under /custom pack. However this is both not po
 | Damage | A custom damage system, including custom death message and pvp kills count. | [link](https://github.com/DaveHJT/Damage-Datapack-Minecraft-Squid-Workshop)
 | Firearms | Various guns and throwables. | [link](https://github.com/DaveHJT/Gun-Minecraft-Datapack-Squid-Workshop)
 | Autoaim | Aimbot "hack" with bows. (calculate and track projectile trajectory) | [link](https://github.com/MingshiYangUIUC/Autoaim-Minecraft-Squid-Workshop-Project)
-| Pool | Play pool (cue sports) in Minecraft (Simple prototype version, stopped updating). | [link](https://github.com/MingshiYangUIUC/Pool-Minecraft-Squid-Workshop-Project) 
-| Pool Pro | Play more realistic pool with higher performance requirement in Minecraft. | [link](https://github.com/MingshiYangUIUC/Pool-Evolved-Minecraft-Squid-Workshop-Project)
+| Pool | Play realistic pool games with in Minecraft with friends. | [link](https://github.com/MingshiYangUIUC/Pool-Evolved-Minecraft-Squid-Workshop-Project)
 | Asgard | Become Thor and Loki in Minecraft. | [link](https://github.com/MingshiYangUIUC/Asgard-Minecraft-Squid-Workshop-Project)
 
 ## Pack Installation
