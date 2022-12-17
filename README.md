@@ -19,6 +19,7 @@ We used to lump all of our packs under /custom pack. However this is both not po
 | Autoaim | Aimbot "hack" with bows. (calculate and track projectile trajectory) | [link](https://github.com/MingshiYangUIUC/Autoaim-Minecraft-Squid-Workshop-Project)
 | Pool | Play realistic pool games with in Minecraft with friends. | [link](https://github.com/MingshiYangUIUC/Pool-Evolved-Minecraft-Squid-Workshop-Project)
 | Asgard | Become Thor and Loki in Minecraft. | [link](https://github.com/MingshiYangUIUC/Asgard-Minecraft-Squid-Workshop-Project)
+| Fight Club | PvP game mechanics framework designed for FPS games, supporting various game modes including deathmatch|domination etc. | Under development
 
 ## Pack Installation
 - Step 1 Download the packs you want to install (in either the form of zip file or folder).
